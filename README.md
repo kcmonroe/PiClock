@@ -1,7 +1,4 @@
-# KCMONROE PICLOCK
-It's better!
-
-### PiClock
+# PiClock
 A Fancy Clock built around a monitor and a Raspberry Pi
 
 ![PiClock Picture](https://raw.githubusercontent.com/n0bel/PiClock/master/Pictures/20150307_222711.jpg)
